@@ -1,0 +1,1128 @@
+[
+    {
+        "category": "Fruits",
+        "image": "assets/images/categories/fruits.png",
+        "items": [
+            {
+                
+                "name": "Apple"
+            },
+            {
+                
+                "name": "Banana"
+            },
+            {
+                
+                "name": "Orange"
+            },
+            {
+                
+                "name": "Mango"
+            },
+            {
+                
+                "name": "Strawberry"
+            },
+            {
+                
+                "name": "Pineapple"
+            },
+            {
+                
+                "name": "Watermelon"
+            },
+            {
+                
+                "name": "Grapes"
+            },
+            {
+                
+                "name": "Cherry"
+            },
+            {
+                
+                "name": "Peach"
+            },
+            {
+                
+                "name": "Pear"
+            },
+            {
+                
+                "name": "Kiwi"
+            },
+            {
+                
+                "name": "Papaya"
+            },
+            {
+                
+                "name": "Plum"
+            },
+            {
+                
+                "name": "Apricot"
+            },
+            {
+                
+                "name": "Coconut"
+            },
+            {
+                
+                "name": "Pomegranate"
+            },
+            {
+                
+                "name": "Lemon"
+            },
+            {
+                
+                "name": "Berry"
+            },
+            {
+                
+                "name": "Melon"
+            },
+            {
+                
+                "name": "Guava"
+            },
+            {
+                
+                "name": "Dragonfruit"
+            },
+            {
+                
+                "name": "Lychee"
+            },
+            {
+                
+                "name": "Fig"
+            },
+            {
+                
+                "name": "Passionfruit"
+            },
+            {
+                
+                "name": "Starfruit"
+            },
+            {
+                
+                "name": "Tangerine"
+            },
+            {
+                
+                "name": "Clementine"
+            },
+            {
+                
+                "name": "Nectarine"
+            },
+            {
+                
+                "name": "Persimmon"
+            },
+            {
+                
+                "name": "Kumquat"
+            },
+            {
+                
+                "name": "Jackfruit"
+            },
+            {
+                
+                "name": "Durian"
+            },
+            {
+                
+                "name": "Rambutan"
+            },
+            {
+                
+                "name": "Longan"
+            },
+            {
+                
+                "name": "Soursop"
+            },
+            {
+                
+                "name": "Breadfruit"
+            },
+            {
+                
+                "name": "Sapodilla"
+            },
+            {
+                
+                "name": "Tamarind"
+            },
+            {
+                
+                "name": "Elderberry"
+            },
+            {
+                
+                "name": "Gooseberry"
+            },
+            {
+                
+                "name": "Currant"
+            }
+        ]
+    },
+    {
+        "category": "Buildings",
+        "image": "assets/images/categories/buildings.png",
+        "items": [
+            {
+                
+                "name": "House"
+            },
+            {
+                
+                "name": "Apartment"
+            },
+            {
+                
+                "name": "Villa"
+            },
+            {
+                
+                "name": "Cottage"
+            },
+            {
+                
+                "name": "Hut"
+            },
+            {
+                
+                "name": "Castle"
+            },
+            {
+                
+                "name": "Palace"
+            },
+            {
+                
+                "name": "Skyscraper"
+            },
+            {
+                
+                "name": "Tower"
+            },
+            {
+                
+                "name": "Cabin"
+            },
+            {
+                
+                "name": "Igloo"
+            },
+            {
+                
+                "name": "Tent"
+            },
+            {
+                
+                "name": "Pyramid"
+            },
+            {
+                
+                "name": "Lighthouse"
+            },
+            {
+                
+                "name": "Mosque"
+            },
+            {
+                
+                "name": "Church"
+            },
+            {
+                
+                "name": "Temple"
+            },
+            {
+                
+                "name": "Monastery"
+            },
+            {
+                
+                "name": "Synagogue"
+            },
+            {
+                
+                "name": "Pagoda"
+            },
+            {
+                
+                "name": "School"
+            },
+            {
+                
+                "name": "University"
+            },
+            {
+                
+                "name": "Library"
+            },
+            {
+                
+                "name": "Hospital"
+            },
+            {
+                
+                "name": "Theater"
+            },
+            {
+                
+                "name": "Cinema"
+            },
+            {
+                
+                "name": "Stadium"
+            },
+            {
+                
+                "name": "Museum"
+            },
+            {
+                
+                "name": "Market"
+            },
+            {
+                
+                "name": "Shop"
+            },
+            {
+                
+                "name": "Factory"
+            },
+            {
+                
+                "name": "Warehouse"
+            },
+            {
+                
+                "name": "Office"
+            },
+            {
+                
+                "name": "Hotel"
+            },
+            {
+                
+                "name": "Restaurant"
+            },
+            {
+                
+                "name": "Cafe"
+            },
+            {
+                
+                "name": "Bank"
+            },
+            {
+                
+                "name": "Post Office"
+            },
+            {
+                
+                "name": "Fire Station"
+            },
+            {
+                
+                "name": "Police Station"
+            }
+        ]
+    },
+    {
+        "category": "Greens",
+        "image": "assets/images/categories/greens.png",
+        "items": [
+            {
+                
+                "name": "Spinach"
+            },
+            {
+                
+                "name": "Lettuce"
+            },
+            {
+                
+                "name": "Kale"
+            },
+            {
+                
+                "name": "Cabbage"
+            },
+            {
+                
+                "name": "Broccoli"
+            },
+            {
+                
+                "name": "Cauliflower"
+            },
+            {
+                
+                "name": "Zucchini"
+            },
+            {
+                
+                "name": "Cucumber"
+            },
+            {
+                
+                "name": "Celery"
+            },
+            {
+                
+                "name": "Asparagus"
+            },
+            {
+                
+                "name": "Leek"
+            },
+            {
+                
+                "name": "Green Beans"
+            },
+            {
+                
+                "name": "Peas"
+            },
+            {
+                
+                "name": "Okra"
+            }
+        ]
+    },
+    {
+        "category": "Clothes",
+        "image": "assets/images/categories/clothes.png",
+        "items": [
+            {
+                
+                "name": "T-shirt"
+            },
+            {
+                
+                "name": "Shirt"
+            },
+            {
+                
+                "name": "Pants"
+            },
+            {
+                
+                "name": "Jeans"
+            },
+            {
+                
+                "name": "Shorts"
+            },
+            {
+                
+                "name": "Jacket"
+            },
+            {
+                
+                "name": "Coat"
+            },
+            {
+                
+                "name": "Sweater"
+            },
+            {
+                
+                "name": "Hoodie"
+            },
+            {
+                
+                "name": "Dress"
+            },
+            {
+                
+                "name": "Skirt"
+            },
+            {
+                
+                "name": "Blouse"
+            },
+            {
+                
+                "name": "Suit"
+            },
+            {
+                
+                "name": "Tie"
+            },
+            {
+                
+                "name": "Scarf"
+            },
+            {
+                
+                "name": "Hat"
+            },
+            {
+                
+                "name": "Cap"
+            },
+            {
+                
+                "name": "Shoes"
+            },
+            {
+                
+                "name": "Sandals"
+            },
+            {
+                
+                "name": "Boots"
+            },
+            {
+                
+                "name": "Socks"
+            },
+            {
+                
+                "name": "Gloves"
+            }
+        ]
+    },
+    {
+        "category": "Jobs",
+        "image": "assets/images/categories/jobs.png",
+        "items": [
+            {
+                
+                "name": "Doctor"
+            },
+            {
+                
+                "name": "Nurse"
+            },
+            {
+                
+                "name": "Teacher"
+            },
+            {
+                
+                "name": "Engineer"
+            },
+            {
+                
+                "name": "Farmer"
+            },
+            {
+                
+                "name": "Chef"
+            },
+            {
+                
+                "name": "Police Officer"
+            },
+            {
+                
+                "name": "Firefighter"
+            },
+            {
+                
+                "name": "Pilot"
+            },
+            {
+                
+                "name": "Soldier"
+            },
+            {
+                
+                "name": "Driver"
+            },
+            {
+                
+                "name": "Mechanic"
+            },
+            {
+                
+                "name": "Builder"
+            },
+            {
+                
+                "name": "Plumber"
+            },
+            {
+                
+                "name": "Electrician"
+            },
+            {
+                
+                "name": "Scientist"
+            },
+            {
+                
+                "name": "Lawyer"
+            },
+            {
+                
+                "name": "Judge"
+            },
+            {
+                
+                "name": "Artist"
+            },
+            {
+                
+                "name": "Musician"
+            },
+            {
+                
+                "name": "Actor"
+            },
+            {
+                
+                "name": "Writer"
+            },
+            {
+                
+                "name": "Photographer"
+            },
+            {
+                
+                "name": "Journalist"
+            },
+            {
+                
+                "name": "Designer"
+            },
+            {
+                
+                "name": "Programmer"
+            },
+            {
+                
+                "name": "Barber"
+            },
+            {
+                
+                "name": "Tailor"
+            },
+            {
+                
+                "name": "Dentist"
+            },
+            {
+                
+                "name": "Pharmacist"
+            }
+        ]
+    },
+    {
+        "category": "Countries",
+        "image": "assets/images/categories/countries.png",
+        "items": [
+            {
+                
+                "name": "Algeria"
+            },
+            {
+                
+                "name": "Morocco"
+            },
+            {
+                
+                "name": "Tunisia"
+            },
+            {
+                
+                "name": "Egypt"
+            },
+            {
+                
+                "name": "Nigeria"
+            },
+            {
+                
+                "name": "South Africa"
+            },
+            {
+                
+                "name": "Kenya"
+            },
+            {
+                
+                "name": "Ethiopia"
+            },
+            {
+                
+                "name": "France"
+            },
+            {
+                
+                "name": "Spain"
+            },
+            {
+                
+                "name": "Italy"
+            },
+            {
+                
+                "name": "Germany"
+            },
+            {
+                
+                "name": "United Kingdom"
+            },
+            {
+                
+                "name": "United States"
+            },
+            {
+                
+                "name": "Canada"
+            },
+            {
+                
+                "name": "Mexico"
+            },
+            {
+                
+                "name": "Brazil"
+            },
+            {
+                
+                "name": "Argentina"
+            },
+            {
+                
+                "name": "Chile"
+            },
+            {
+                
+                "name": "Colombia"
+            },
+            {
+                
+                "name": "China"
+            },
+            {
+                
+                "name": "Japan"
+            },
+            {
+                
+                "name": "South Korea"
+            },
+            {
+                
+                "name": "India"
+            },
+            {
+                
+                "name": "Pakistan"
+            },
+            {
+                
+                "name": "Turkey"
+            },
+            {
+                
+                "name": "Saudi Arabia"
+            },
+            {
+                
+                "name": "United Arab Emirates"
+            },
+            {
+                
+                "name": "Qatar"
+            },
+            {
+                
+                "name": "Australia"
+            }
+        ]
+    },
+    {
+        "category": "Animals",
+        "image": "assets/images/categories/animals.png",
+        "items": [
+            {
+                
+                "name": "Lion"
+            },
+            {
+                
+                "name": "Tiger"
+            },
+            {
+                
+                "name": "Elephant"
+            },
+            {
+                
+                "name": "Giraffe"
+            },
+            {
+                
+                "name": "Zebra"
+            },
+            {
+                
+                "name": "Horse"
+            },
+            {
+                
+                "name": "Cow"
+            },
+            {
+                
+                "name": "Sheep"
+            },
+            {
+                
+                "name": "Goat"
+            },
+            {
+                
+                "name": "Dog"
+            },
+            {
+                
+                "name": "Cat"
+            },
+            {
+                
+                "name": "Rabbit"
+            },
+            {
+                
+                "name": "Fox"
+            },
+            {
+                
+                "name": "Wolf"
+            },
+            {
+                
+                "name": "Bear"
+            },
+            {
+                
+                "name": "Monkey"
+            },
+            {
+                
+                "name": "Kangaroo"
+            },
+            {
+                
+                "name": "Panda"
+            },
+            {
+                
+                "name": "Crocodile"
+            },
+            {
+                
+                "name": "Snake"
+            },
+            {
+                
+                "name": "Frog"
+            },
+            {
+                
+                "name": "Turtle"
+            },
+            {
+                
+                "name": "Dolphin"
+            },
+            {
+                
+                "name": "Whale"
+            },
+            {
+                
+                "name": "Shark"
+            },
+            {
+                
+                "name": "Eagle"
+            },
+            {
+                
+                "name": "Owl"
+            },
+            {
+                
+                "name": "Parrot"
+            },
+            {
+                
+                "name": "Penguin"
+            },
+            {
+                
+                "name": "Chicken"
+            }
+        ]
+    },
+    {
+        "category": "Computer",
+        "image": "assets/images/categories/computer_science.png",
+        "items": [
+            {
+                
+                "name": "Keyboard"
+            },
+            {
+                
+                "name": "Mouse"
+            },
+            {
+                
+                "name": "Monitor"
+            },
+            {
+                
+                "name": "CPU"
+            },
+            {
+                
+                "name": "Motherboard"
+            },
+            {
+                
+                "name": "RAM"
+            },
+            {
+                
+                "name": "Hard Disk"
+            },
+            {
+                
+                "name": "SSD"
+            },
+            {
+                
+                "name": "Graphics Card"
+            },
+            {
+                
+                "name": "Power Supply"
+            },
+            {
+                
+                "name": "Cooling Fan"
+            },
+            {
+                
+                "name": "Printer"
+            },
+            {
+                
+                "name": "Scanner"
+            },
+            {
+                
+                "name": "Webcam"
+            },
+            {
+                
+                "name": "Speaker"
+            },
+            {
+                
+                "name": "Microphone"
+            },
+            {
+                
+                "name": "Laptop"
+            },
+            {
+                
+                "name": "Tablet"
+            },
+            {
+                
+                "name": "Smartphone"
+            },
+            {
+                
+                "name": "USB Drive"
+            }
+        ]
+    },
+    {
+        "category": "Tools",
+        "image": "assets/images/categories/tools.png",
+        "items": [
+            {
+                
+                "name": "Hammer"
+            },
+            {
+                
+                "name": "Screwdriver"
+            },
+            {
+                
+                "name": "Wrench"
+            },
+            {
+                
+                "name": "Pliers"
+            },
+            {
+                
+                "name": "Saw"
+            },
+            {
+                
+                "name": "Drill"
+            },
+            {
+                
+                "name": "Chisel"
+            },
+            {
+                
+                "name": "Tape Measure"
+            },
+            {
+                
+                "name": "Level"
+            },
+            {
+                
+                "name": "Shovel"
+            },
+            {
+                
+                "name": "Rake"
+            },
+            {
+                
+                "name": "Axe"
+            },
+            {
+                
+                "name": "Pickaxe"
+            },
+            {
+                
+                "name": "Ladder"
+            },
+            {
+                
+                "name": "Wheelbarrow"
+            },
+            {
+                
+                "name": "Spade"
+            },
+            {
+                
+                "name": "Hoe"
+            },
+            {
+                
+                "name": "Crowbar"
+            },
+            {
+                
+                "name": "Mallet"
+            },
+            {
+                
+                "name": "File"
+            },
+            {
+                
+                "name": "Ruler"
+            },
+            {
+                
+                "name": "Square"
+            },
+            {
+                
+                "name": "Clamp"
+            },
+            {
+                
+                "name": "Paintbrush"
+            },
+            {
+                
+                "name": "Roller"
+            },
+            {
+                
+                "name": "Bucket"
+            },
+            {
+                
+                "name": "Garden Fork"
+            },
+            {
+                
+                "name": "Shears"
+            },
+            {
+                
+                "name": "Hacksaw"
+            },
+            {
+                
+                "name": "Chainsaw"
+            },
+            {
+                
+                "name": "Sledgehammer"
+            },
+            {
+                
+                "name": "Allen Key"
+            },
+            {
+                
+                "name": "Socket Wrench"
+            },
+            {
+                
+                "name": "Hand Drill"
+            },
+            {
+                
+                "name": "Staple Gun"
+            },
+            {
+                
+                "name": "Glue Gun"
+            },
+            {
+                
+                "name": "Vice"
+            },
+            {
+                
+                "name": "Workbench"
+            },
+            {
+                
+                "name": "Safety Goggles"
+            },
+            {
+                
+                "name": "Toolbox"
+            }
+        ]
+    }
+]
