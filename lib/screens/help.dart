@@ -150,7 +150,7 @@ class _HelpPageState extends State<HelpPage> {
                       ),
                       TextSpan(
                         text: selectedLanguage == "en"
-                            ? "+1 point "
+                            ? "+0 point "
                             : "+1 نقطة ",
                         style: TextStyle(
                           color: Colors.yellow,
