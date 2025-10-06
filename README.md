@@ -1,5 +1,3 @@
-![Home Screen](https://github.com/SK-AYYOUB/find_the_spy/blob/main/assets/images/game_screenshots/home.jpg)
-
 # 🕵️‍♂️ Find The Spy
 
 **Find The Spy** is a fun and engaging social party game built using **Flutter**.  
