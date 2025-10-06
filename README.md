@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/game_screenshots/home.jpg" alt="Home Screen" width="250"/>
+</p>
+
 # 🕵️‍♂️ Find The Spy
 
 **Find The Spy** is a fun and engaging social party game built using **Flutter**.  
